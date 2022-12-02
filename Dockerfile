@@ -1,4 +1,4 @@
-FROM python:3.7.3-stretch
+FROM python:3.8.15-alpine3.16
 EXPOSE 5000
 # Working Directory
 WORKDIR /app
